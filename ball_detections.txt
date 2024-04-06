@@ -1,0 +1,12 @@
+Element name: Green Ball
+Element frame: 00:01:266
+Confidence: 0.28
+
+Element name: Green Ball
+Element frame: 00:01:300
+Confidence: 0.32
+
+Element name: Green Ball
+Element frame: 00:01:366
+Confidence: 0.29
+
